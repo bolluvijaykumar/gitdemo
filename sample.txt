@@ -1,1 +1,1 @@
-welcome to Java FSD - new entry
+welcome to Java FSD - second entry
